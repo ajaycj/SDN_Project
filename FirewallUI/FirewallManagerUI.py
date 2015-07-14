@@ -1,9 +1,6 @@
 '''
 Created on Apr 11, 2015
 
-@author: aron
-'''
-
 from NewPolicyUI import PolicyAdder
 from CommonDataTypes import CommonData
 from ShowBlockedIPUI import ShowBlockedIP
