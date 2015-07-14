@@ -1,8 +1,7 @@
 '''
 Created on Apr 11, 2015
 
-@author: aron
-'''
+
 from ipaddr import IPAddress
 
 class BlockedIPData:
