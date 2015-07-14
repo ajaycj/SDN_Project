@@ -1,8 +1,8 @@
 '''
 Created on Apr 11, 2015
 
-@author: aron
-'''
+
+
 from datetime import datetime
 from dns.rdatatype import NULL
 import BlockedIP
